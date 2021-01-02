@@ -1,0 +1,176 @@
+D:\SVN\A100\Windows\A100_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.RCP.dll
+D:\SVN\A100\Windows\A100_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.RCP.pdb
+D:\SVN\A100\Windows\A100_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\SVN\A100\Windows\A100_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\SVN\A100\Windows\A100_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\SVN\A100\Windows\A100_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\SVN\A100\Windows\A100_MANUAL_CAL\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\SVN\A100\Windows\A100_MANUAL_CAL\Phychips.RCP\obj\Debug\Phychips.RCP.dll
+D:\SVN\A100\Windows\A100_MANUAL_CAL\Phychips.RCP\obj\Debug\Phychips.RCP.pdb
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.RCP.dll
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.RCP.pdb
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\obj\Debug\Phychips.RCP.dll
+D:\SVN\A110\Windows\A110_MANUAL_CAL\Phychips.RCP\obj\Debug\Phychips.RCP.pdb
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.RCP.dll
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.RCP.pdb
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\obj\Debug\Phychips.RCP.dll
+D:\SVN\A200\Windows\A200_MANUAL_CAL\Phychips.RCP\obj\Debug\Phychips.RCP.pdb
+D:\SVN\A200\Windows\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\SVN\A200\Windows\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\SVN\A200\Windows\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\SVN\A200\Windows\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\SVN\A200\Windows\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\SVN\A200\Windows\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\SVN\A200\Windows\A200_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\SVN\A200\Windows\A200_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\SVN\A200\Windows\A200_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\A200_SDK\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\obj\Debug\ResolveAssemblyReference.cache
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+Z:\D\WORKING\20150430_API 검토\Arete Windows API\RED_SDK\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\WORKING\20150430_API 검토\Arete Windows API\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\WORKING\API\Arete Windows API\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+E:\2016\API\RED Windows API\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\WORKING\CUSTOMER SUPPORT\1004_SPS\17051114461004HYO\2_WORK\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\WORK\2018\1010_PANASONIC\18060717581010HYO\2_WORK\Windows\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojResolveAssemblyReference.cache
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\WORK\2019\1007_RFID TAGS AND SERVICES\19120309211007HYO\2_WORK\RED_SDK_with API\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojAssemblyReference.cache
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\obj\Debug\Phychips.Rcp.csproj.CoreCompileInputs.cache
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\obj\Debug\Phychips.Rcp.csproj.CopyComplete
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\bin\Debug\SLABHIDDevice.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\bin\Debug\SLABHIDtoUART.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\bin\Debug\Phychips.Rcp.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\bin\Debug\Phychips.Rcp.pdb
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\bin\Debug\Phychips.Driver.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\bin\Debug\Phychips.Helper.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\bin\Debug\Phychips.Driver.pdb
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\bin\Debug\Phychips.Helper.pdb
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\obj\Debug\Phychips.Rcp.csprojAssemblyReference.cache
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\obj\Debug\Phychips.Rcp.csproj.CoreCompileInputs.cache
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\obj\Debug\Phychips.Rcp.csproj.CopyComplete
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\obj\Debug\Phychips.Rcp.dll
+D:\Development\Red4\Windows (with API)_AddedManuallyPortSetting-21012020\Phychips.RCP\obj\Debug\Phychips.Rcp.pdb
