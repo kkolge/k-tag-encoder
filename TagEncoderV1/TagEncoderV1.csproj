@@ -116,6 +116,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Documents\Write EPC and Lock Tag.txt" />
     <Content Include="SLABHIDDevice.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
