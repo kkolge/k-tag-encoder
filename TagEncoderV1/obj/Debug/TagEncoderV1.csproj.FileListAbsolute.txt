@@ -1,16 +1,28 @@
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\TagEncoderV1.exe.config
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\TagEncoderV1.exe
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\TagEncoderV1.pdb
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.csprojAssemblyReference.cache
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.Properties.Resources.resources
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.csproj.GenerateResource.cache
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.csproj.CoreCompileInputs.cache
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.exe
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.pdb
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.Form1.resources
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\SLABHIDDevice.dll
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\SLABHIDtoUART.dll
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\log4net.config
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\log4net.dll
 E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\Phychips.Driver.dll
 E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\Phychips.Helper.dll
 E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\Phychips.Rcp.dll
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\log4net.xml
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.Form1.resources
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.frm1.resources
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.frmMain.resources
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.frmTemplate.resources
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.Properties.Resources.resources
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.csproj.GenerateResource.cache
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.csproj.CoreCompileInputs.cache
 E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.csproj.CopyComplete
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\SLABHIDDevice.dll
-E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\SLABHIDtoUART.dll
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.csprojAssemblyReference.cache
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\TagEncoderV1.AboutBox.resources
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\Tag Encoder.exe.config
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\Tag Encoder.exe
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\Tag Encoder.pdb
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\Tag Encoder.exe
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\obj\Debug\Tag Encoder.pdb
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\RED_DEMO.exe
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\RED_DEMO.pdb
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\RED_DEMO.exe.config
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\images\RFTSLogo_Apr2014.ico
+E:\Development\bitbucket-repos\k-tagencoderv1\TagEncoderV1\bin\Debug\images\RFTSLogo_Apr2014.png

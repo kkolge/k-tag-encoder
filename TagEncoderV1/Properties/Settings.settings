@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Phychips.PR9200.Properties" GeneratedClassName="Settings">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TagEncoderV1.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
     <Setting Name="max_tag" Type="System.Int32" Scope="User">
@@ -37,6 +37,9 @@
     </Setting>
     <Setting Name="encodingType" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="power" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
     </Setting>
   </Settings>
 </SettingsFile>

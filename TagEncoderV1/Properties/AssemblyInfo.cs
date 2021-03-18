@@ -5,14 +5,17 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TagEncoderV1")]
-[assembly: AssemblyDescription("Tag Encoder Program Version 1.0")]
+[assembly: AssemblyTitle("Tag Encoder")]
+[assembly: AssemblyDescription("RFID Tag Encoder Program Version 1.0")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Ko-Aaham Technologies LLP")]
-[assembly: AssemblyProduct("TagEncoder")]
+[assembly: AssemblyCompany("RFID Tags and Services")]
+[assembly: AssemblyProduct("Tag Encoder")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("RFTS")]
 [assembly: AssemblyCulture("")]
+
+//For Logging - log4Net
+[assembly: log4net.Config.XmlConfigurator(ConfigFile = "Log4Net.config", Watch = true)]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
